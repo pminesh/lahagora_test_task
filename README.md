@@ -31,5 +31,8 @@
     "lang":"en",
     "country":"us"
    }
+    ![image](https://github.com/pminesh/lahagora_test_task/assets/43671273/5a7c6d1b-1fa2-4fd0-abc8-50b657e7c5c5)
 
 2. GET API: This API is used to get all data of apps from the database.
+   ![image](https://github.com/pminesh/lahagora_test_task/assets/43671273/c05ad597-aa6d-4822-96a7-96359c416932)
+
