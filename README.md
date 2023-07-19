@@ -16,7 +16,7 @@
     
 ### Step6: Check redis server is running or not
     $ sudo service redis-server status
-    $ sudo service redis-server start - Redis server start using this command
+    $ sudo service redis-server start - <span style="color: red">Redis server start using this command</span>
     
 ### Step7: Start celery server in new terminal using below command
     $ celery -A google_play_scraper_project worker --beat -l info
